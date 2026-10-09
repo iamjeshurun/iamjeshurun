@@ -1,6 +1,6 @@
 # Hi, I'm Jeshurun 👋
 
-I build data and ML projects end to end: from raw data and models to tested APIs, dashboards, and automated pipelines that run in the cloud.
+I build cool things
 
 ## Featured projects
 
